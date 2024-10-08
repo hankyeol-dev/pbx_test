@@ -51,7 +51,7 @@
 		811165812CB4CD0400A0EF18 /* pbx_test2 */ = {
 			isa = PBXGroup;
 			children = (
-				811165912CB4D1AB00A0EF18 /* b */,
+				811165902CB4D03B00A0EF18 /* a */,
 				811165882CB4CD0500A0EF18 /* Preview Content */,
 			);
 			path = pbx_test2;
@@ -65,14 +65,15 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		811165912CB4D1AB00A0EF18 /* b */ = {
+
+		811165902CB4D03B00A0EF18 /* a */ = {
 			isa = PBXGroup;
 			children = (
 				811165822CB4CD0400A0EF18 /* pbx_test2App.swift */,
 				811165842CB4CD0400A0EF18 /* ContentView.swift */,
 				811165862CB4CD0500A0EF18 /* Assets.xcassets */,
 			);
-			path = b;
+			path = a;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

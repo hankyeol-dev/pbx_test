@@ -51,7 +51,7 @@
 		811165812CB4CD0400A0EF18 /* pbx_test2 */ = {
 			isa = PBXGroup;
 			children = (
-				8123284B2CB4F8A50031F62C /* den */,
+				8123284C2CB4FA100031F62C /* Bran */,
 				811165882CB4CD0500A0EF18 /* Preview Content */,
 			);
 			path = pbx_test2;
@@ -65,14 +65,14 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		8123284B2CB4F8A50031F62C /* den */ = {
+		8123284C2CB4FA100031F62C /* Bran */ = {
 			isa = PBXGroup;
 			children = (
 				811165822CB4CD0400A0EF18 /* pbx_test2App.swift */,
 				811165842CB4CD0400A0EF18 /* ContentView.swift */,
 				811165862CB4CD0500A0EF18 /* Assets.xcassets */,
 			);
-			path = den;
+			path = Bran;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
